@@ -1,2 +1,0 @@
-# autoGrid
-Created with CodeSandbox
